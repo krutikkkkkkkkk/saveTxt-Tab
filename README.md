@@ -1,7 +1,7 @@
 # saveTxt-Tab
 Chrome Extension to save text notes and current tab url
 
-<img src="https://i.ibb.co/3SvMgGX/Screenshot-63.png" alt="reboot13" border="0"></a>
+<img src="https://i.ibb.co/qmCWTXG/Screenshot-63.png" alt="reboot13" border="0"></a>
 
 
 > Save Text : Type or Paste something in the input field and hit the save button

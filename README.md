@@ -21,7 +21,7 @@ Chrome Extension to save text notes and current tab url
 
 4. Select the folder and add it
 
-Watch Video : https://youtube.com/
+Watch Video : https://youtu.be/JTGusnErZM4
 
 
 
